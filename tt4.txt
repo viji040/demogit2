@@ -1,2 +1,6 @@
 
 i am gonna delte this file for sure , so i just created this file for my skill checking
+
+and yes i sucessfully pushed msg from vs to git by push mehtod
+
+and now i can pull msg from git to vs using pull method
